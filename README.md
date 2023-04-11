@@ -9,7 +9,7 @@ Soy programador desde hace mas de 30 años, pase por todos los paradigmas de pro
 * 🌍  I'm based in Tucumán Argentina
 * 🖥️  See my portfolio at [pronto en sangenis.AR](http://sangenis.ar)
 * ✉️  You can contact me at [sangenispablo@gmail.com](mailto:sangenispablo@gmail.com)
-* 🚀  I'm currently working on [Telecom Personal](http://personal.com)
+* 🚀  I'm currently working on [Personal Pay]([https://www.personalpay.com.ar/])
 * 🧠  I'm learning Nest
 * 🤝  I'm open to collaborating on IA, IoT, Flow
 * ⚡  Triatleta frustrado, shhhh no le digas a nadie
